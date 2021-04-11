@@ -1,7 +1,6 @@
 flasgger==0.9.2
 Flask==1.1.2
 gunicorn==20.1.0
-itsdangerous==1.1.0
 Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1612119311452/work
 MarkupSafe @ file:///D:/bld/markupsafe_1610127683324/work
 pandas @ file:///D:/bld/pandas_1614698105739/work
